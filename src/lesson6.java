@@ -38,7 +38,7 @@ public class lesson6 {
         System.out.println("всех животных " + Animal.countAnimal);
 
 
-
+// сдача!
 
 
 
